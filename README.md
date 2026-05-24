@@ -9,6 +9,8 @@ NOTE that these Data Sources do not include points data like data centers, fiber
 ### Energy Reserve Margins
 In **electric.pmtiles**, use `SUMMER_CAP` and `SUMMER_PEAK` to calculate the energy reserve margins, as in `(cap - peak) / peak`
 
+Or download the original, complete, and unsimplified data directly from https://www.datalumos.org/datalumos/project/239091/version/V2/view;jsessionid=2E3A62F1A5EFE6C778A98EC3C21533B8
+
 # Water
 
 ### Aqueduct Water Risk
